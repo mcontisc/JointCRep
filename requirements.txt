@@ -1,0 +1,12 @@
+numpy
+pandas
+sklearn
+scikit-tensor-py3
+scipy
+networkx
+matplotlib
+seaborn
+argparse
+termcolor
+pyyaml
+pytest
