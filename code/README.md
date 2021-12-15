@@ -20,7 +20,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 -  `synthetic` : Class definition of the benchmark generative model used to generate synthetic data (*ReciprocityMMSBM_joints*). It creates a synthetic, directed, and binary network by a mixed-membership stochastic block-model with a reciprocity structure. Specifically, it models pairwise joint distributions with Bivariate Bernoulli distributions. An example on how to use this code is shown in the jupyter-notebook `generate_synthetic.ipynb`.
 - `tools.py` : Contains non-class functions for handling and visualizing the data. 
 - `test.py` : Code for testing the algorithm.
-- `analyse_results.ipynb` : Example jupyter notebook to show the analysis of the highschool dataset.
+- `analysis_highschool.ipynb` : Example jupyter notebook to show the analysis of the highschool dataset.
 
 ## Usage
 To test the program on the given synthetic example file, type
