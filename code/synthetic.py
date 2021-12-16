@@ -35,6 +35,9 @@ DEFAULT_SHOW_DETAILS = True
 DEFAULT_SHOW_PLOTS = True
 DEFAULT_OUTPUT_NET = True
 
+import sys
+if not sys.warnoptions:
+    warnings.simplefilter("ignore")
 
 def transpose_tensor(M):
     """
