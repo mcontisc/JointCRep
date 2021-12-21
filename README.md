@@ -2,13 +2,13 @@
 
 Python implementation of JointCRep algorithm described in:
 
-- [1] ADD LINK ARXIV
+[1] Contisciani M., Safdari H., and De Bacco C. (2021). _Community detection and reciprocity in networks by jointly modeling pairs of edges_, arXiv:2112.10436.
+
+If you use this code please cite this [article](https://arxiv.org/abs/2112.10436) (_preprint_).     
 
 This is a new probabilistic generative model that takes into account community structure and reciprocity by specifying a closed-form joint distribution of a pair of network edges. To estimate the likelihood of network ties, we use a bivariate Bernoulli distribution where the log odds are linked to community memberships and pair interaction variables. 
 
 This model aims to generalize the method [CRep](https://github.com/mcontisc/CRep) presented in [Safdari et al. (2021)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.023209), which was of inspiration for the latent variables underlying the generative process.  
-
-If you use this code please cite [1].   
 
 Copyright (c) 2021 [Martina Contisciani](https://www.is.mpg.de/person/mcontisciani), [Hadiseh Safdari](https://github.com/hds-safdari), and [Caterina De Bacco](http://cdebacco.com).
 
