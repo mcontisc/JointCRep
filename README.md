@@ -10,7 +10,7 @@ This model aims to generalize the method [CRep](https://github.com/mcontisc/CRep
 
 If you use this code please cite [1].
 
-The paper can be found [here](https://academic.oup.com/comnet/article/10/4/cnac034/6658441) (published version) or [here](https://arxiv.org/abs/2112.10436) (preprint).
+The paper can be found [here](https://academic.oup.com/comnet/article/10/4/cnac034/6658441) (_published version_) or [here](https://arxiv.org/abs/2112.10436) (_preprint_).
 
 Copyright (c) 2021 [Martina Contisciani](https://www.is.mpg.de/person/mcontisciani), [Hadiseh Safdari](https://github.com/hds-safdari), and [Caterina De Bacco](http://cdebacco.com).
 
