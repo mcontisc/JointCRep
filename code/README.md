@@ -3,9 +3,9 @@ Copyright (c) 2021 [Martina Contisciani](https://www.is.mpg.de/person/mcontiscia
 
 Implements the algorithm described in:
 
-[1] Contisciani M., Safdari H., and De Bacco C. (2021). _Community detection and reciprocity in networks by jointly modeling pairs of edges_, arXiv:2112.10436.
+[1] Contisciani M., Safdari H., and De Bacco C. (2022). _Community detection and reciprocity in networks by jointly modeling pairs of edges_, Journal of Complex Networks 10, cnac034.
 
-If you use this code please cite this [article](https://arxiv.org/abs/2112.10436) (_preprint_).     
+If you use this code please cite this [article](https://academic.oup.com/comnet/article/10/4/cnac034/6658441) (_published version_).     
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the 'Software'), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
