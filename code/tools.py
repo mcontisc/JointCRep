@@ -242,8 +242,8 @@ def build_sparse_B_from_A(A):
     d3, d3_T = np.array((), dtype='int64'), np.array((), dtype='int64')
     v, vT, v_T = np.array(()), np.array(()), np.array(())
     for l in range(L):
-        b = nx.to_scipy_sparse_matrix(A[l])
-        b_T = nx.to_scipy_sparse_matrix(A[l]).transpose()
+        b = nx.to_scipy_sparse_array(A[l])
+        b_T = nx.to_scipy_sparse_array(A[l]).transpose()
         rw.append(np.sum(b.multiply(b_T)) / np.sum(b))
         nz = b.nonzero()
         nz_T = b_T.nonzero()
